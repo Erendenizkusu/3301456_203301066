@@ -39,8 +39,8 @@ class HomeScreen extends StatelessWidget {
                         child: Column(
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children:[
-                          Text("1.gün",style: TextStyle(color: Colors.black,fontSize: 30,fontWeight: FontWeight.bold),),
-                          Text("15 Egzersiz"),
+                          Text("Gün 1",style: TextStyle(color: Colors.black,fontSize: 30,fontWeight: FontWeight.bold),),
+                          Text("17 Egzersiz"),
                         ]
                         ),
                       ),
@@ -63,8 +63,8 @@ class HomeScreen extends StatelessWidget {
                         child: Column(
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children:[
-                          Text("1.gün",style: TextStyle(color: Colors.black,fontSize: 30,fontWeight: FontWeight.bold),),
-                          Text("15 Egzersiz"),
+                          Text("Gün 2",style: TextStyle(color: Colors.black,fontSize: 30,fontWeight: FontWeight.bold),),
+                          Text("17 Egzersiz"),
                         ]
                         ),
                       ),
@@ -87,8 +87,8 @@ class HomeScreen extends StatelessWidget {
                         child: Column(
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children:[
-                          Text("1.gün",style: TextStyle(color: Colors.black,fontSize: 30,fontWeight: FontWeight.bold),),
-                          Text("15 Egzersiz"),
+                          Text("Gün 3",style: TextStyle(color: Colors.black,fontSize: 30,fontWeight: FontWeight.bold),),
+                          Text("17 Egzersiz"),
                         ]
                         ),
                       ),
@@ -111,8 +111,8 @@ class HomeScreen extends StatelessWidget {
                         child: Column(
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children:[
-                          Text("1.gün",style: TextStyle(color: Colors.black,fontSize: 30,fontWeight: FontWeight.bold),),
-                          Text("15 Egzersiz"),
+                          Text("Gün 4",style: TextStyle(color: Colors.black,fontSize: 30,fontWeight: FontWeight.bold),),
+                          Text("17 Egzersiz"),
                         ]
                         ),
                       ),
@@ -135,8 +135,8 @@ class HomeScreen extends StatelessWidget {
                         child: Column(
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children:[
-                          Text("1.gün",style: TextStyle(color: Colors.black,fontSize: 30,fontWeight: FontWeight.bold),),
-                          Text("15 Egzersiz"),
+                          Text("Gün 5",style: TextStyle(color: Colors.black,fontSize: 30,fontWeight: FontWeight.bold),),
+                          Text("17 Egzersiz"),
                         ]
                         ),
                       ),
@@ -159,8 +159,8 @@ class HomeScreen extends StatelessWidget {
                         child: Column(
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children:[
-                          Text("1.gün",style: TextStyle(color: Colors.black,fontSize: 30,fontWeight: FontWeight.bold),),
-                          Text("15 Egzersiz"),
+                          Text("Gün 6",style: TextStyle(color: Colors.black,fontSize: 30,fontWeight: FontWeight.bold),),
+                          Text("17 Egzersiz"),
                         ]
                         ),
                       ),
@@ -183,8 +183,8 @@ class HomeScreen extends StatelessWidget {
                         child: Column(
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children:[
-                          Text("1.gün",style: TextStyle(color: Colors.black,fontSize: 30,fontWeight: FontWeight.bold),),
-                          Text("15 Egzersiz"),
+                          Text("Gün 7",style: TextStyle(color: Colors.black,fontSize: 30,fontWeight: FontWeight.bold),),
+                          Text("17 Egzersiz"),
                         ]
                         ),
                       ),
@@ -207,8 +207,8 @@ class HomeScreen extends StatelessWidget {
                         child: Column(
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children:[
-                          Text("1.gün",style: TextStyle(color: Colors.black,fontSize: 30,fontWeight: FontWeight.bold),),
-                          Text("15 Egzersiz"),
+                          Text("Gün 8",style: TextStyle(color: Colors.black,fontSize: 30,fontWeight: FontWeight.bold),),
+                          Text("17 Egzersiz"),
                         ]
                         ),
                       ),

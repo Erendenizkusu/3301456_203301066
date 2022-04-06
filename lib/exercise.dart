@@ -34,7 +34,7 @@ class Exercise extends StatelessWidget {
         child: Column(
           children: [
             Image.asset(
-              "images/film.jpg",
+              "images/ben.jpg",
               height: 200,
               width: MediaQuery.of(context).size.width,
               fit: BoxFit.cover,
@@ -86,7 +86,7 @@ class Exercise extends StatelessWidget {
                   Padding(
                     padding: const EdgeInsets.symmetric(horizontal: 20.0),
                     child: Image.asset(
-                      "images/film.jpg",
+                      "images/atlama_krikolar.png",
                       height: 100,
                       width: 100,
                       fit: BoxFit.cover,
@@ -124,7 +124,7 @@ class Exercise extends StatelessWidget {
                   Padding(
                     padding: const EdgeInsets.symmetric(horizontal: 20.0),
                     child: Image.asset(
-                      "images/film.jpg",
+                      "images/atlama_krikolar.png",
                       height: 100,
                       width: 100,
                       fit: BoxFit.cover,
@@ -162,7 +162,7 @@ class Exercise extends StatelessWidget {
                   Padding(
                     padding: const EdgeInsets.symmetric(horizontal: 20.0),
                     child: Image.asset(
-                      "images/film.jpg",
+                      "images/atlama_krikolar.png",
                       height: 100,
                       width: 100,
                       fit: BoxFit.cover,
@@ -200,7 +200,7 @@ class Exercise extends StatelessWidget {
                   Padding(
                     padding: const EdgeInsets.symmetric(horizontal: 20.0),
                     child: Image.asset(
-                      "images/film.jpg",
+                      "images/atlama_krikolar.png",
                       height: 100,
                       width: 100,
                       fit: BoxFit.cover,
@@ -238,7 +238,7 @@ class Exercise extends StatelessWidget {
                   Padding(
                     padding: const EdgeInsets.symmetric(horizontal: 20.0),
                     child: Image.asset(
-                      "images/film.jpg",
+                      "images/atlama_krikolar.png",
                       height: 100,
                       width: 100,
                       fit: BoxFit.cover,
@@ -276,7 +276,7 @@ class Exercise extends StatelessWidget {
                   Padding(
                     padding: const EdgeInsets.symmetric(horizontal: 20.0),
                     child: Image.asset(
-                      "images/film.jpg",
+                      "images/atlama_krikolar.png",
                       height: 100,
                       width: 100,
                       fit: BoxFit.cover,
@@ -314,7 +314,7 @@ class Exercise extends StatelessWidget {
                   Padding(
                     padding: const EdgeInsets.symmetric(horizontal: 20.0),
                     child: Image.asset(
-                      "images/film.jpg",
+                      "images/atlama_krikolar.png",
                       height: 100,
                       width: 100,
                       fit: BoxFit.cover,
@@ -352,7 +352,7 @@ class Exercise extends StatelessWidget {
                   Padding(
                     padding: const EdgeInsets.symmetric(horizontal: 20.0),
                     child: Image.asset(
-                      "images/film.jpg",
+                      "images/atlama_krikolar.png",
                       height: 100,
                       width: 100,
                       fit: BoxFit.cover,
@@ -390,7 +390,7 @@ class Exercise extends StatelessWidget {
                   Padding(
                     padding: const EdgeInsets.symmetric(horizontal: 20.0),
                     child: Image.asset(
-                      "images/film.jpg",
+                      "images/atlama_krikolar.png",
                       height: 100,
                       width: 100,
                       fit: BoxFit.cover,
@@ -428,7 +428,7 @@ class Exercise extends StatelessWidget {
                   Padding(
                     padding: const EdgeInsets.symmetric(horizontal: 20.0),
                     child: Image.asset(
-                      "images/film.jpg",
+                      "images/atlama_krikolar.png",
                       height: 100,
                       width: 100,
                       fit: BoxFit.cover,
@@ -466,7 +466,7 @@ class Exercise extends StatelessWidget {
                   Padding(
                     padding: const EdgeInsets.symmetric(horizontal: 20.0),
                     child: Image.asset(
-                      "images/film.jpg",
+                      "images/atlama_krikolar.png",
                       height: 100,
                       width: 100,
                       fit: BoxFit.cover,

@@ -27,7 +27,7 @@ class Personel extends StatelessWidget {
                       height: 25,
                     ),
                     ListTile(
-                      leading: Icon(Icons.account_circle),
+                      leading: Icon(Icons.height),
                       title: Text("Boy"),
                       subtitle: Text("data"),
                       trailing: Icon(Icons.send),
@@ -36,8 +36,8 @@ class Personel extends StatelessWidget {
                       height: 25,
                     ),
                     ListTile(
-                      leading: Icon(Icons.account_circle),
-                      title: Text("Boy"),
+                      leading: Icon(Icons.balance),
+                      title: Text("Kilo"),
                       subtitle: Text("data"),
                       trailing: Icon(Icons.send),
                     ),
@@ -46,7 +46,7 @@ class Personel extends StatelessWidget {
                     ),
                     ListTile(
                       leading: Icon(Icons.account_circle),
-                      title: Text("Boy"),
+                      title: Text("BKI"),
                       subtitle: Text("data"),
                       trailing: Icon(Icons.send),
                     ),
@@ -58,7 +58,7 @@ class Personel extends StatelessWidget {
                       height: 150,
                       decoration: BoxDecoration(
                         image: DecorationImage(
-                          image: AssetImage("images/film.jpg"),
+                          image: AssetImage("images/bki.png"),
                           fit: BoxFit.cover,
                         ),
                       ),

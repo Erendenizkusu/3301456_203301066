@@ -13,9 +13,9 @@ class Bildiriler extends StatelessWidget {
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.center,
               children: [
-                Text("Ağırlık",style: TextStyle(fontSize: 30,fontWeight: FontWeight.bold)),
+                Text("Kalori Takip Grafiği",style: TextStyle(fontSize: 30,fontWeight: FontWeight.bold)),
                 Divider(color: Colors.grey,indent: 20,endIndent: 20),
-                Image.asset("images/film.jpg"),
+                Image.asset("images/calories_graph.png"),
               ],
             ),
           ),
