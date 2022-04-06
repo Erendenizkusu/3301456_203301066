@@ -1,6 +1,6 @@
-import 'package:favori_filmim_odev/bildiriler.dart';
-import 'package:favori_filmim_odev/home_screen.dart';
-import 'package:favori_filmim_odev/personal.dart';
+import 'package:get_invincible/bildiriler.dart';
+import 'package:get_invincible/home_screen.dart';
+import 'package:get_invincible/personal.dart';
 import 'package:flutter/material.dart';
 
 class BottomNavigationBarWidget extends StatefulWidget {

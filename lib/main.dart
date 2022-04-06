@@ -1,10 +1,10 @@
-import 'package:favori_filmim_odev/bottom_navigation_bar_widget.dart';
-import 'package:favori_filmim_odev/exercise.dart';
-import 'package:favori_filmim_odev/login_screen.dart';
-import 'package:favori_filmim_odev/personal.dart';
-import 'package:favori_filmim_odev/register_screen.dart';
-import 'package:favori_filmim_odev/splash_screen.dart';
-import 'package:favori_filmim_odev/welcome_screen.dart';
+import 'package:get_invincible/bottom_navigation_bar_widget.dart';
+import 'package:get_invincible/exercise.dart';
+import 'package:get_invincible/login_screen.dart';
+import 'package:get_invincible/personal.dart';
+import 'package:get_invincible/register_screen.dart';
+import 'package:get_invincible/splash_screen.dart';
+import 'package:get_invincible/welcome_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(const AntrenmanProgramim());

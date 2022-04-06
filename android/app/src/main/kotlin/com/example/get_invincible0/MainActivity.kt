@@ -1,4 +1,4 @@
-package com.example.favori_filmim_odev
+package com.example.get_invincible0
 
 import io.flutter.embedding.android.FlutterActivity
 

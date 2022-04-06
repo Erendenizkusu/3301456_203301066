@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.favori_filmim_odev">
+    package="com.example.get_invincible0">
    <application
-        android:label="favori_filmim_odev"
+        android:label="get_invincible0"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
